@@ -1,0 +1,5 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\05SquareRoot\bin\Debug\05SquareRoot.exe.config
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\05SquareRoot\bin\Debug\05SquareRoot.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\05SquareRoot\bin\Debug\05SquareRoot.pdb
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\05SquareRoot\obj\Debug\05SquareRoot.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\05SquareRoot\obj\Debug\05SquareRoot.pdb

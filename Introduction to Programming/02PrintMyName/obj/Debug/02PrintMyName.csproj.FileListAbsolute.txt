@@ -1,0 +1,6 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\02PrintMyName\bin\Debug\02PrintMyName.exe.config
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\02PrintMyName\bin\Debug\02PrintMyName.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\02PrintMyName\bin\Debug\02PrintMyName.pdb
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\02PrintMyName\obj\Debug\02PrintMyName.csprojResolveAssemblyReference.cache
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\02PrintMyName\obj\Debug\02PrintMyName.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\02PrintMyName\obj\Debug\02PrintMyName.pdb

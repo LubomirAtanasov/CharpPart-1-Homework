@@ -1,0 +1,9 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\IntroProgrammingHomework\bin\Debug\IntroProgrammingHomework.exe.config
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\IntroProgrammingHomework\bin\Debug\IntroProgrammingHomework.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\IntroProgrammingHomework\bin\Debug\IntroProgrammingHomework.pdb
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\IntroProgrammingHomework\obj\Debug\IntroProgrammingHomework.csprojResolveAssemblyReference.cache
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\IntroProgrammingHomework\obj\Debug\IntroProgrammingHomework.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\IntroProgrammingHomework\IntroProgrammingHomework\obj\Debug\IntroProgrammingHomework.pdb
+C:\Users\Lubomir\Desktop\haha\IntroProgrammingHomework\bin\Debug\IntroProgrammingHomework.exe.config
+C:\Users\Lubomir\Desktop\haha\IntroProgrammingHomework\obj\Debug\IntroProgrammingHomework.exe
+C:\Users\Lubomir\Desktop\haha\IntroProgrammingHomework\obj\Debug\IntroProgrammingHomework.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\08CurrentDateAndTime\bin\Debug\08CurrentDateAndTime.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\08CurrentDateAndTime\bin\Debug\08CurrentDateAndTime.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\08CurrentDateAndTime\bin\Debug\08CurrentDateAndTime.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\08CurrentDateAndTime\obj\Debug\08CurrentDateAndTime.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\08CurrentDateAndTime\obj\Debug\08CurrentDateAndTime.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\08CurrentDateAndTime\obj\Debug\08CurrentDateAndTime.csprojResolveAssemblyReference.cache

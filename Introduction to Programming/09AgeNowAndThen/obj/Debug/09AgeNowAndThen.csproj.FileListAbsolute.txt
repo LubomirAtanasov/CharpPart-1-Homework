@@ -1,0 +1,6 @@
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\09AgeNowAndThen\bin\Debug\09AgeNowAndThen.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\09AgeNowAndThen\bin\Debug\09AgeNowAndThen.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\09AgeNowAndThen\bin\Debug\09AgeNowAndThen.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\09AgeNowAndThen\obj\Debug\09AgeNowAndThen.csprojResolveAssemblyReference.cache
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\09AgeNowAndThen\obj\Debug\09AgeNowAndThen.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\09AgeNowAndThen\obj\Debug\09AgeNowAndThen.pdb
