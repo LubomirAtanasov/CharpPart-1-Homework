@@ -1,0 +1,6 @@
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\17Sunglasses\bin\Debug\17Sunglasses.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\17Sunglasses\bin\Debug\17Sunglasses.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\17Sunglasses\bin\Debug\17Sunglasses.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\17Sunglasses\obj\Debug\17Sunglasses.csprojResolveAssemblyReference.cache
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\17Sunglasses\obj\Debug\17Sunglasses.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\17Sunglasses\obj\Debug\17Sunglasses.pdb

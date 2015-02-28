@@ -1,0 +1,6 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\08-IsoscelesTriangle\bin\Debug\08-IsoscelesTriangle.exe.config
+c:\users\lubomir\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\08-IsoscelesTriangle\bin\Debug\08-IsoscelesTriangle.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\08-IsoscelesTriangle\bin\Debug\08-IsoscelesTriangle.pdb
+c:\users\lubomir\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\08-IsoscelesTriangle\obj\Debug\08-IsoscelesTriangle.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\08-IsoscelesTriangle\obj\Debug\08-IsoscelesTriangle.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\08-IsoscelesTriangle\obj\Debug\08-IsoscelesTriangle.csprojResolveAssemblyReference.cache

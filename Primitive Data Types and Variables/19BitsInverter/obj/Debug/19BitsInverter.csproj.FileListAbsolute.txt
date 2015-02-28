@@ -1,0 +1,5 @@
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\19BitsInverter\bin\Debug\19BitsInverter.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\19BitsInverter\bin\Debug\19BitsInverter.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\19BitsInverter\bin\Debug\19BitsInverter.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\19BitsInverter\obj\Debug\19BitsInverter.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\19BitsInverter\obj\Debug\19BitsInverter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\16HalfSum\bin\Debug\16HalfSum.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\16HalfSum\bin\Debug\16HalfSum.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\16HalfSum\bin\Debug\16HalfSum.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\16HalfSum\obj\Debug\16HalfSum.csprojResolveAssemblyReference.cache
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\16HalfSum\obj\Debug\16HalfSum.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\16HalfSum\obj\Debug\16HalfSum.pdb

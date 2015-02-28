@@ -1,0 +1,5 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe.config
+c:\users\lubomir\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\06StringsAndObjects\bin\Debug\06StringsAndObjects.pdb
+c:\users\lubomir\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\06StringsAndObjects\obj\Debug\06StringsAndObjects.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\06StringsAndObjects\obj\Debug\06StringsAndObjects.pdb

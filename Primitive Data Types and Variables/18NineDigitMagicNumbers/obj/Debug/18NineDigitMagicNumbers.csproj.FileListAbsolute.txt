@@ -1,0 +1,6 @@
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\18NineDigitMagicNumbers\bin\Debug\18NineDigitMagicNumbers.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\18NineDigitMagicNumbers\bin\Debug\18NineDigitMagicNumbers.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\18NineDigitMagicNumbers\bin\Debug\18NineDigitMagicNumbers.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\18NineDigitMagicNumbers\obj\Debug\18NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\18NineDigitMagicNumbers\obj\Debug\18NineDigitMagicNumbers.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\18NineDigitMagicNumbers\obj\Debug\18NineDigitMagicNumbers.pdb
