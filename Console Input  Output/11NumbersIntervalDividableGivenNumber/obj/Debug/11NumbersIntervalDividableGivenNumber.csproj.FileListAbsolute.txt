@@ -1,0 +1,5 @@
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11NumbersIntervalDividableGivenNumber\bin\Debug\11NumbersIntervalDividableGivenNumber.exe.config
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11NumbersIntervalDividableGivenNumber\bin\Debug\11NumbersIntervalDividableGivenNumber.exe
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11NumbersIntervalDividableGivenNumber\bin\Debug\11NumbersIntervalDividableGivenNumber.pdb
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11NumbersIntervalDividableGivenNumber\obj\Debug\11NumbersIntervalDividableGivenNumber.exe
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\11NumbersIntervalDividableGivenNumber\obj\Debug\11NumbersIntervalDividableGivenNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.exe.config
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.exe
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\08NumbersFrom1ToN\bin\Debug\08NumbersFrom1ToN.pdb
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\08NumbersFrom1ToN\obj\Debug\08NumbersFrom1ToN.exe
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\08NumbersFrom1ToN\obj\Debug\08NumbersFrom1ToN.pdb

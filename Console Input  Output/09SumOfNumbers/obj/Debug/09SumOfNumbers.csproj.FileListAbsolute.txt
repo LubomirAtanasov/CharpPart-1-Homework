@@ -1,0 +1,5 @@
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09SumOfNumbers\bin\Debug\09SumOfNumbers.exe.config
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09SumOfNumbers\bin\Debug\09SumOfNumbers.exe
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09SumOfNumbers\bin\Debug\09SumOfNumbers.pdb
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09SumOfNumbers\obj\Debug\09SumOfNumbers.exe
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09SumOfNumbers\obj\Debug\09SumOfNumbers.pdb

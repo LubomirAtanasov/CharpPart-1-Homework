@@ -1,0 +1,5 @@
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\07Sum5Numbers\bin\Debug\07Sum5Numbers.exe.config
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\07Sum5Numbers\bin\Debug\07Sum5Numbers.exe
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\07Sum5Numbers\bin\Debug\07Sum5Numbers.pdb
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\07Sum5Numbers\obj\Debug\07Sum5Numbers.exe
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\07Sum5Numbers\obj\Debug\07Sum5Numbers.pdb

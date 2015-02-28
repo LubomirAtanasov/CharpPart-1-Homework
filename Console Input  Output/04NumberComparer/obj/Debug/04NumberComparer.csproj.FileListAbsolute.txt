@@ -1,0 +1,6 @@
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\04NumberComparer\bin\Debug\04NumberComparer.exe.config
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\04NumberComparer\obj\Debug\04NumberComparer.csprojResolveAssemblyReference.cache
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\04NumberComparer\bin\Debug\04NumberComparer.exe
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\04NumberComparer\bin\Debug\04NumberComparer.pdb
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\04NumberComparer\obj\Debug\04NumberComparer.exe
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\04NumberComparer\obj\Debug\04NumberComparer.pdb

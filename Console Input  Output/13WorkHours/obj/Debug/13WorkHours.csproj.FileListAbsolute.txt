@@ -1,0 +1,6 @@
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\13WorkHours\bin\Debug\13WorkHours.exe.config
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\13WorkHours\obj\Debug\13WorkHours.csprojResolveAssemblyReference.cache
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\13WorkHours\bin\Debug\13WorkHours.exe
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\13WorkHours\bin\Debug\13WorkHours.pdb
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\13WorkHours\obj\Debug\13WorkHours.exe
+C:\Users\Amaro Shakur\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\13WorkHours\obj\Debug\13WorkHours.pdb
