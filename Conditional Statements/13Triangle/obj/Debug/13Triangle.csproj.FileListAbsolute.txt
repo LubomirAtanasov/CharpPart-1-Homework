@@ -1,0 +1,5 @@
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\13Triangle\bin\Debug\13Triangle.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\13Triangle\bin\Debug\13Triangle.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\13Triangle\bin\Debug\13Triangle.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\13Triangle\obj\Debug\13Triangle.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\13Triangle\obj\Debug\13Triangle.pdb

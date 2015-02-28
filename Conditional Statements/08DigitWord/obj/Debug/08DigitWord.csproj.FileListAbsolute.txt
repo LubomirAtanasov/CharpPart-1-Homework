@@ -1,0 +1,5 @@
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\08DigitWord\bin\Debug\08DigitWord.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\08DigitWord\bin\Debug\08DigitWord.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\08DigitWord\bin\Debug\08DigitWord.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\08DigitWord\obj\Debug\08DigitWord.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\08DigitWord\obj\Debug\08DigitWord.pdb

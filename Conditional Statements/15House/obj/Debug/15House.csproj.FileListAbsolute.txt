@@ -1,0 +1,6 @@
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\15House\bin\Debug\15House.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\15House\obj\Debug\15House.csprojResolveAssemblyReference.cache
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\15House\bin\Debug\15House.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\15House\bin\Debug\15House.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\15House\obj\Debug\15House.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\15House\obj\Debug\15House.pdb

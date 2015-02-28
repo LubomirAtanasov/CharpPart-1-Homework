@@ -1,0 +1,5 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\ConditionalStatements\03CheckForCard\bin\Debug\03CheckForCard.exe.config
+c:\users\lubomir\documents\visual studio 2013\Projects\ConditionalStatements\03CheckForCard\bin\Debug\03CheckForCard.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\ConditionalStatements\03CheckForCard\bin\Debug\03CheckForCard.pdb
+c:\users\lubomir\documents\visual studio 2013\Projects\ConditionalStatements\03CheckForCard\obj\Debug\03CheckForCard.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\ConditionalStatements\03CheckForCard\obj\Debug\03CheckForCard.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\07SortNumbersNested\bin\Debug\07SortNumbersNested.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\07SortNumbersNested\obj\Debug\07SortNumbersNested.csprojResolveAssemblyReference.cache
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\07SortNumbersNested\bin\Debug\07SortNumbersNested.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\07SortNumbersNested\bin\Debug\07SortNumbersNested.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\07SortNumbersNested\obj\Debug\07SortNumbersNested.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\07SortNumbersNested\obj\Debug\07SortNumbersNested.pdb

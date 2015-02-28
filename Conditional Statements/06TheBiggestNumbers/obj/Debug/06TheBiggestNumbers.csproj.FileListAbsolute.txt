@@ -1,0 +1,5 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\ConditionalStatements\06TheBiggestNumbers\bin\Debug\06TheBiggestNumbers.exe.config
+c:\users\lubomir\documents\visual studio 2013\Projects\ConditionalStatements\06TheBiggestNumbers\bin\Debug\06TheBiggestNumbers.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\ConditionalStatements\06TheBiggestNumbers\bin\Debug\06TheBiggestNumbers.pdb
+c:\users\lubomir\documents\visual studio 2013\Projects\ConditionalStatements\06TheBiggestNumbers\obj\Debug\06TheBiggestNumbers.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\ConditionalStatements\06TheBiggestNumbers\obj\Debug\06TheBiggestNumbers.pdb

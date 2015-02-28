@@ -1,0 +1,6 @@
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\11NumberWords\bin\Debug\11NumberWords.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\11NumberWords\bin\Debug\11NumberWords.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\11NumberWords\bin\Debug\11NumberWords.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\11NumberWords\obj\Debug\11NumberWords.csprojResolveAssemblyReference.cache
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\11NumberWords\obj\Debug\11NumberWords.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\11NumberWords\obj\Debug\11NumberWords.pdb

@@ -1,0 +1,5 @@
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\09PlayDoubleAndString\bin\Debug\09PlayDoubleAndString.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\09PlayDoubleAndString\bin\Debug\09PlayDoubleAndString.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\09PlayDoubleAndString\bin\Debug\09PlayDoubleAndString.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\09PlayDoubleAndString\obj\Debug\09PlayDoubleAndString.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\ConditionalStatements\09PlayDoubleAndString\obj\Debug\09PlayDoubleAndString.pdb
