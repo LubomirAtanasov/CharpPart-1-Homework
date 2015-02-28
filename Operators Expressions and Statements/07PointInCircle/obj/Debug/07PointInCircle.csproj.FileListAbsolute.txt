@@ -1,0 +1,5 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\07PointInCircle\bin\Debug\07PointInCircle.exe.config
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\07PointInCircle\bin\Debug\07PointInCircle.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\07PointInCircle\bin\Debug\07PointInCircle.pdb
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\07PointInCircle\obj\Debug\07PointInCircle.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\07PointInCircle\obj\Debug\07PointInCircle.pdb

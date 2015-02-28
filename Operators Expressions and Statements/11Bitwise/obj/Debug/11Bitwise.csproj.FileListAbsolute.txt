@@ -1,0 +1,6 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\11Bitwise\bin\Debug\11Bitwise.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\11Bitwise\obj\Debug\11Bitwise.csprojResolveAssemblyReference.cache
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\11Bitwise\bin\Debug\11Bitwise.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\11Bitwise\bin\Debug\11Bitwise.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\11Bitwise\obj\Debug\11Bitwise.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\11Bitwise\obj\Debug\11Bitwise.pdb

@@ -1,0 +1,5 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\14ModifyBitGivenPosition\bin\Debug\14ModifyBitGivenPosition.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\14ModifyBitGivenPosition\bin\Debug\14ModifyBitGivenPosition.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\14ModifyBitGivenPosition\bin\Debug\14ModifyBitGivenPosition.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\14ModifyBitGivenPosition\obj\Debug\14ModifyBitGivenPosition.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\14ModifyBitGivenPosition\obj\Debug\14ModifyBitGivenPosition.pdb

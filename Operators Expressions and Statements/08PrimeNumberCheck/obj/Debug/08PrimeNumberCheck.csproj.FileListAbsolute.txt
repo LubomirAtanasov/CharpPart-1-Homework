@@ -1,0 +1,5 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe.config
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.pdb
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.pdb

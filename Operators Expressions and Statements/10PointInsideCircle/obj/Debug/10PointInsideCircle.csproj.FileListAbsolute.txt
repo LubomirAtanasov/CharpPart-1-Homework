@@ -1,0 +1,5 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\10PointInsideCircle\bin\Debug\10PointInsideCircle.exe.config
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\10PointInsideCircle\bin\Debug\10PointInsideCircle.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\10PointInsideCircle\bin\Debug\10PointInsideCircle.pdb
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\10PointInsideCircle\obj\Debug\10PointInsideCircle.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\10PointInsideCircle\obj\Debug\10PointInsideCircle.pdb

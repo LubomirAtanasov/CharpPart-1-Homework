@@ -1,0 +1,6 @@
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\18OddEvenSum\bin\Debug\18OddEvenSum.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\18OddEvenSum\bin\Debug\18OddEvenSum.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\18OddEvenSum\bin\Debug\18OddEvenSum.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\18OddEvenSum\obj\Debug\18OddEvenSum.csprojResolveAssemblyReference.cache
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\18OddEvenSum\obj\Debug\18OddEvenSum.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\18OddEvenSum\obj\Debug\18OddEvenSum.pdb

@@ -1,0 +1,5 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\05ThirdDigit7\bin\Debug\05ThirdDigit7.exe.config
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\05ThirdDigit7\bin\Debug\05ThirdDigit7.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\05ThirdDigit7\bin\Debug\05ThirdDigit7.pdb
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\05ThirdDigit7\obj\Debug\05ThirdDigit7.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\05ThirdDigit7\obj\Debug\05ThirdDigit7.pdb

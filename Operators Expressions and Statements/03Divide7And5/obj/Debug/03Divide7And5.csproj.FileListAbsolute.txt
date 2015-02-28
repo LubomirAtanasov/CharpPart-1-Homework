@@ -1,0 +1,5 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\03Divide7And5\bin\Debug\03Divide7And5.exe.config
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\03Divide7And5\bin\Debug\03Divide7And5.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\03Divide7And5\bin\Debug\03Divide7And5.pdb
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\03Divide7And5\obj\Debug\03Divide7And5.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\03Divide7And5\obj\Debug\03Divide7And5.pdb

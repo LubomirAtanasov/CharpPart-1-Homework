@@ -1,0 +1,6 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\17Volleyball\bin\Debug\17Volleyball.exe.config
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\17Volleyball\bin\Debug\17Volleyball.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\17Volleyball\bin\Debug\17Volleyball.pdb
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\17Volleyball\obj\Debug\17Volleyball.csprojResolveAssemblyReference.cache
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\17Volleyball\obj\Debug\17Volleyball.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\17Volleyball\obj\Debug\17Volleyball.pdb

@@ -1,0 +1,5 @@
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\21BitSifting\bin\Debug\21BitSifting.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\21BitSifting\bin\Debug\21BitSifting.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\21BitSifting\bin\Debug\21BitSifting.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\21BitSifting\obj\Debug\21BitSifting.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\21BitSifting\obj\Debug\21BitSifting.pdb

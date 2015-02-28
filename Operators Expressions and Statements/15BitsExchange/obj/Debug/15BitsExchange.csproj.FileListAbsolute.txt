@@ -1,0 +1,5 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\15BitsExchange\bin\Debug\15BitsExchange.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\15BitsExchange\bin\Debug\15BitsExchange.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\15BitsExchange\bin\Debug\15BitsExchange.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\15BitsExchange\obj\Debug\15BitsExchange.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\15BitsExchange\obj\Debug\15BitsExchange.pdb

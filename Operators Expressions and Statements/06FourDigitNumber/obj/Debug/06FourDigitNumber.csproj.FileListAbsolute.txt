@@ -1,0 +1,5 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb

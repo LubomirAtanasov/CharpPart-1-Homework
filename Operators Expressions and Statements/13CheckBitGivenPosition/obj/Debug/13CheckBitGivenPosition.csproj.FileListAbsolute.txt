@@ -1,0 +1,5 @@
+c:\users\lubomir\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatements\13CheckBitGivenPosition\bin\Debug\13CheckBitGivenPosition.exe.config
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\13CheckBitGivenPosition\bin\Debug\13CheckBitGivenPosition.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\13CheckBitGivenPosition\bin\Debug\13CheckBitGivenPosition.pdb
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\13CheckBitGivenPosition\obj\Debug\13CheckBitGivenPosition.exe
+C:\Users\Lubomir\Documents\Visual Studio 2013\Projects\OperatorsExpressionsAndStatements\13CheckBitGivenPosition\obj\Debug\13CheckBitGivenPosition.pdb
